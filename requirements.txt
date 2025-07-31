@@ -1,0 +1,13 @@
+langchain>=0.2.0
+langchain-community>=0.0.1
+langchain-anthropic
+langchain-exa
+langgraph
+duckduckgo-search
+fastapi
+fastapi[all]
+uvicorn[standard]
+python-dotenv
+tiktoken
+streamlit
+requests
